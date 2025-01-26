@@ -40,8 +40,6 @@ The data consists of three primary tables:
    - `Gender`
    - `Region` (Urban, Rural)
 
-### ERD (Entity Relationship Diagram)
-- [ERD Link to Canva Design](#) *(This link will point to the ERD visualization)*
 
 ## Executive Summary:
 The analysis of XYZ Café’s sales data for 2023 revealed key insights into consumer behavior. Digital payments, particularly Digital Wallets, dominated, while in-store consumption outperformed takeaway orders. Products like salads and sandwiches were the top sellers, whereas cookies and tea showed lower demand. Seasonal trends indicated higher sales in December, with a notable dip in May. Mondays and Thursdays saw the highest spending, while Sundays experienced lower traffic.
@@ -102,15 +100,3 @@ The findings suggest focusing on promoting digital payments, improving takeaway 
 ## Limitations and Assumptions:
 - **Missing Data**: Some product category information was inconsistent, which could affect product performance analysis.
 - **Assumptions**: The data was assumed to reflect consistent customer behavior throughout the year, despite potential external factors like holidays or special events.
-
-## Questions for Stakeholders:
-- Are there any specific product categories that XYZ Café plans to prioritize for the upcoming seasonal promotions?
-- What is the marketing strategy for driving takeaway sales, and how can data analysis support it?
-
-## Format:
-- The project will be hosted on GitHub with a clean and accessible README file to guide future exploration.
-- A dashboard with interactive visualizations will be made available for stakeholders to explore the data in real-time.
-
----
-
-This framework aligns with the findings of your data analysis, presenting clear, actionable insights, and offering structured recommendations to support strategic decisions at XYZ Café.
