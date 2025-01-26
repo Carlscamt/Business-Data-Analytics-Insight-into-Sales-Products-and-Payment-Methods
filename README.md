@@ -68,10 +68,12 @@ The findings suggest focusing on promoting digital payments, improving takeaway 
 ![Image](https://github.com/user-attachments/assets/7868427f-b8bc-4298-92ce-b2c4a9317d4a)
 
 - **Monthly Performance:**
-  ![Line Graph](#) *(Line graph showing monthly sales trends)*
+![Hoja 2](https://github.com/user-attachments/assets/55ab87ac-80d4-45f5-a6cd-b39e4f118224)
+
 
 - **Weekly Performance:**
-  ![Bar Chart](#) *(Bar chart for sales per day of the week)*
+![Hoja 3](https://github.com/user-attachments/assets/9940b968-0520-4477-a59a-d88104814f7b)
+
 
 ## Recommendations:
 1. **Promote Digital Payments**:
