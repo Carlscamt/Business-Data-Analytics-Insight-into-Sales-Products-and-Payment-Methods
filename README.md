@@ -65,7 +65,7 @@ The findings suggest focusing on promoting digital payments, improving takeaway 
 
 ### Visualizations:
 - **Payment Methods Breakdown:**
-  ![Bar Chart](#) *(Bar chart for payment method distribution)*
+![Image](https://github.com/user-attachments/assets/7868427f-b8bc-4298-92ce-b2c4a9317d4a)
 
 - **Monthly Performance:**
   ![Line Graph](#) *(Line graph showing monthly sales trends)*
