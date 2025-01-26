@@ -2,6 +2,23 @@
 This project focuses on analyzing sales data to optimize inventory and enhance sales strategies. It includes an in-depth look at product performance, sales trends by payment method, and daily/seasonal sales patterns. Using SQL for data cleaning and filtering, Excel for data processing, and Tableu.
 
 
+#Executive Summary
+This report provides a comprehensive analysis of consumer behavior across three key dimensions: payment methods, consumption locations, and time-based trends. The insights are drawn from an extensive evaluation of transaction data to identify patterns that can inform marketing and operational strategies.
+
+Payment Methods and Consumption Locations:
+
+Key Findings: Digital payment methods, particularly Digital Wallets, are the most popular, indicating strong acceptance of digitalization. Consumers show a clear preference for in-store consumption over takeaway, suggesting that on-site experiences remain more attractive.
+Recommendations: Focus on promoting digital payment options and consider enhancing the takeaway segment with targeted offers. Boost sales of less popular products through cross-promotions.
+Monthly Trends:
+
+Key Findings: December sees the highest spending, driven by festive activities, while May is the lowest. Seasonal products such as Tea peak in colder months, while cold beverages like Smoothies and Juices are popular in summer.
+Recommendations: Leverage the December spike with special promotions. Address the May lull by offering discounts or new product launches to stimulate sales.
+Weekly Trends:
+
+Key Findings: Mondays and Thursdays are the days with the highest consumer spending, while Sundays see the lowest traffic. Specific products like Salad and Smoothie perform well on weekends and Mondays.
+Recommendations: Introduce strategies to increase Sunday traffic, such as family-focused promotions, and promote healthy options like salads and smoothies at the start of the week.
+In summary, the insights from this report highlight key opportunities for optimizing payment methods, improving product offerings, and tailoring marketing efforts to capitalize on seasonal and weekly consumer behavior.
+
 Consumption Analysis Reports
 
 Report 1: Analysis by Payment Method and Consumption Location
